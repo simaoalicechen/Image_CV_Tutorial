@@ -2,4 +2,7 @@
 .ipynb_checkpoints
 How_Diffusion_Model_Works/.my_env
 How_Diffusion_Model_Works/.ipynb_checkpoints
+How_Diffusion_Model_Works/*.pth
+How_Diffusion_Model_Works/*.npy
+Evaluating_and_Debugging_Generative_AI_(Weights_and_Biases)/.ipynb_checkpoints
 
